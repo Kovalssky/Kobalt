@@ -12,11 +12,8 @@ description = "Library for download Cobalt Api"
 readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
+license-files = ["LICENSE"]
 keywords = ["Downloader", "Cobalt"]
-classifiers = [
-    "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License"
-]
 
 [project.urls]
 Homepage = "https://github.com/Kovalssky/Kobalt/"
