@@ -12,6 +12,9 @@ description = "Library for download Cobalt Api"
 readme = "README.md"
 requires-python = ">=3.10"
 license = "MIT"
+dependencies = [
+    "requests>=2.25"
+]
 license-files = ["LICENSE"]
 keywords = ["Downloader", "Cobalt"]
 
